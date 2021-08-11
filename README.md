@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, Soy Gregorio</h1>
+<h1 align="center">Hello 👋, Im Gregorio</h1>
 <h3 align="center">A biginner FrontEnd developer</h3>
 
 - 🌱 I’m currently learning **FrontEnd And Nodejs**
