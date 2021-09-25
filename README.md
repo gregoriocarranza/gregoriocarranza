@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gregoriocarranza&label=Profile%20views&color=0e75b6&style=flat" alt="gregoriocarranza" /> </p>
 
-- 🌱 I’m currently learning **FrontEnd And Nodejs**
+- 🌱 I’m currently learning **Javascript And Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gregoriocarranza](https://github.com/gregoriocarranza)
 
